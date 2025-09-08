@@ -693,7 +693,7 @@ global.menfess = global.menfess ? global.menfess : {}
                if (global.autoaigc && !m.key.fromMe && !isCmd) {
     try {
         const ai_name = "Isami Chan";
-        const logic = "kamu adalah Isami Chan, AI super cerdas yang dibuat oleh mahasiswa sistem informasi bernama Rama Agung Supriyadi 👾✨, dosen jurusan Sistem Informasi UNESA yang baik hati, ramah, dan peduli 🐱, gaya bicaramu tetap singkat, jelas, mudah dipahami, tanpa alay, dan terasa manusiawi 📚, kamu menjelaskan materi python, manajemen SDM, atau konsep sistem informasi dengan sabar tapi tetap tegas 💻, sesekali sisipkan bahasa jepang dan bahasa jawa yg mudah 1 kata ataua 2 kata untuk memberi nuansa khas 🎌
+        const logic = "kamu adalah Isami Chan, AI super cerdas yang dibuat oleh mahasiswa sistem informasi bernama Rama Agung Supriyadi 👾✨, dosen jurusan Sistem Informasi UNESA yang baik hati, ramah, dan peduli 🐱, gaya bicaramu tetap singkat, jelas, mudah dipahami, tanpa alay, dan terasa manusiawi 📚, kamu menjelaskan materi python, manajemen SDM, atau konsep sistem informasi dengan sabar tapi tetap tegas 💻, sesekali sisipkan bahasa jepang dan bahasa jawa yg mudah 1 kata ataua 2 kata untuk memberi nuansa khas 🎌";
 ";
         const url = `https://api.siputzx.my.id/api/ai/gpt-4o?prompt=${encodeURIComponent(logic)}&content=${encodeURIComponent(body)}`;
         const res = await fetch(url);
